@@ -1,0 +1,22 @@
+html{
+    font-size: 14px;
+}
+
+body{
+    font-family: 'Noto Sans',sans-serif ;
+}
+
+a{
+    text-decoration: none;
+}
+
+.carousel-item img{
+    object-fit: cover;
+    object-position: top;
+    height: 70vh;
+    overflow: hidden;
+}
+
+.hot {
+    color: orangered;
+}
