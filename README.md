@@ -1,5 +1,5 @@
 # ShopKart_django
-Using Python and Django ( Backend Project ).
+Using Python and Django ( Full Stack Project ).
 
 Website Link : https://haridasshms.pythonanywhere.com/
 
